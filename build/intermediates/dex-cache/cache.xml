@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/b4da636f0311a533d4bcc3f168014c289bacdac1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_ce9e1a9fbe7acc2fc7a6e661e27559d61f7fb123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_fc7c4729716fd60c68d14b2ac520bc24e7d64f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/6e9471563d787fef0cffe91be789961408a0e61b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_4cb17e765533a21de9953fa37bbb063e3b61e46c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.23.0/8e86c84ff3c98eca6423e97780325b299133d858/google-http-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8e86c84ff3c98eca6423e97780325b299133d858">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/google-http-client-1.23.0_73c2d5a7c2a63fcaa28b75cac627e8fd08f6c712.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/dd13ae08ffe14621181a336adbdb35e76b236b4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_97bf65984a478de7628800af808841144805f992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_72ee9f990b155d6ef770d684c05f94a6bce8634c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/d8985d703d67a71a6a6d7f7d6ad3903c8abc2a82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_6c15a139368b149735a9de3f42f70f41e7238c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/9e464173a331e4838365bcd111a38110650d662a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_b7fcf78aa3bc03f8825e3481f84e9df502982489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/bc1e4030e09ef498883720c66b5602314b7784c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_d363741abade6d9839a2119706788799330ca9d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/2a44bc4f63f27627b377224ca4ef0071788ce77c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_4f9d816b4b05f8f0ba42524e53382394ee6e7b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/e0f30742f63d99d276e6a67cafb04f07c8ddd9ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_0251d0373066ba311abd0c865e12d828babaacf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_e747089db60df9efdfa67f6a4f2f3d4fcb301fcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/glide-3.7.0_6e1d0d5d082f8f4ac827ce1970622521b9576a2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/d5fde765f78cb97866ae378ed9f489275fc693ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_f45453c5a643b8e2dc1906db8db82b3f6bef5f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/871c3bc513f5f76d880fa7ce6960b2343f96b138/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_4ab909432c063259a6dd92f300b9b34425cb7e55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.21.0/58768eec41118e917eba75ff6d5b022e01c76efc/google-http-client-android-1.21.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58768eec41118e917eba75ff6d5b022e01c76efc">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.21.0_d6bde1ab1bf668d79fdbe0a3d49b41f994432602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/64f8192baa1655390a14ba81bbe960b48a1f9d39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_c25b9d0702b5314436c955b1174f78ff6cf8015b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_7e623a1e8393d466d78df89a2598b89fcaeb4e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/b4bff0c8efcf9c09558146a23b344b2826358160/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_1337acfe3c75ec3639bae7c7ccdf2c3c29ce4378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/7d97c28343f40778e54e02084c7058ea907f92eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_34bdc9878e5944b90d1c76e9fc8e4a3f0e22f8c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/9c797a66c559be62def06cd4f036d92a4cb06d28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_642179ceec4aa845820ba26918ef9024314e83fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/04ac70059fecc0a83da294828bb6a23370331709/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_2f54d0e507a491dba5e98d1d8e1e9cef45bc8c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.23.0/e57ea1e2220bda5a2bd24ff17860212861f3c5cf/google-oauth-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e57ea1e2220bda5a2bd24ff17860212861f3c5cf">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.23.0_98b941fb398dd8e502b5184df4a15b541c9ead84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/0db7ab473c084ef902ae19134a3c79131ee6b313/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_e73230d2efeef72c0fa7838dfb8e723ae1bc711b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/e083e8a5f9326a74bd045c8cce2bc1adca4b0538/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_3f33f31d881abb2933725f831d58d8a4cf4dec2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/guava-jdk5-17.0_381bd891e03490496e3866e444bdc7348141527c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/4c61f6fb8adebb1e2df7774bc0f0805202e8a085/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_77ba354a2860b67ee5820b9bdb3241aa51f03ee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.3_a13c89973c1c8bce4f7e9a2f1b7ba7e93f86f6c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-books/v1-rev93-1.23.0/890a14c1edae8d61f5a2aa3b38476f07351db5bb/google-api-services-books-v1-rev93-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="890a14c1edae8d61f5a2aa3b38476f07351db5bb">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/google-api-services-books-v1-rev93-1.23.0_5522d1f6302a12ac75b4911211b34f651074ea7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/d53a6639fa108faa71a0e95c23fa17344ab067df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_ba18829e6f00aff12b6be15628c1bab3d450da36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/9ce3916bf975eb80c6eb68458f3cd388b8b8f38d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_d9a09b259531d03afab793f13a2393dfb1825a58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.android/build-cache/4ec2b90643c18f299a7b7aff629f7a67a7b7779c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/classes_9187f9285d640b43c009c314cb8ddf285c72ea69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.23.0/522ea860eb48dee71dfe2c61a1fd09663539f556/google-api-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="522ea860eb48dee71dfe2c61a1fd09663539f556">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/google-api-client-1.23.0_523b40ae8bde4d749d4d5f5aee3ac81e25f8fe70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohanrodrigues/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.23.0/fd6761f4046a8cb0455e6fa5f58e12b061e9826e/google-http-client-jackson2-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fd6761f4046a8cb0455e6fa5f58e12b061e9826e">
+        <dex dex="/Users/rohanrodrigues/Downloads/Book-Buddy/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.23.0_07aecf5fbfcb031132979f647c4aa292e7deec69.jar" />
+    </item>
+
+</items>
